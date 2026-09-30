@@ -1,4 +1,4 @@
-# Hi, I'm Mustakul
+# Hi, I'm M N Mustakul (Nowshirwan)
 
 I work at the intersection of cybersecurity and AI, using Python and Linux to turn ideas into practical projects. I'm an Oracle Certified Generative AI Professional.
 
